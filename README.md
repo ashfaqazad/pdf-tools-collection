@@ -7,39 +7,62 @@
 
 ---
 
-## 📄 PDF Tools
+## ⚡ Popular PDF Tools
 
 | Tool | Description | Link |
 |------|-------------|------|
-| Compress PDF | Reduce PDF file size | [Use Tool](https://pdflinx.com/compress-pdf) |
+| Compress PDF | Reduce PDF file size online | [Use Tool](https://pdflinx.com/compress-pdf) |
+| Merge PDF | Combine multiple PDFs into one | [Use Tool](https://pdflinx.com/merge-pdf) |
+| Split PDF | Split PDF into separate pages | [Use Tool](https://pdflinx.com/split-pdf) |
+
+---
+
+## 📄 Convert to PDF
+
+| Tool | Description | Link |
+|------|-------------|------|
 | Word to PDF | Convert Word docs to PDF | [Use Tool](https://pdflinx.com/word-to-pdf) |
-| PDF to Word | Convert PDF to editable Word | [Use Tool](https://pdflinx.com/pdf-to-word) |
-| Merge PDF | Combine multiple PDFs | [Use Tool](https://pdflinx.com/merge-pdf) |
-| Split PDF | Split PDF into pages | [Use Tool](https://pdflinx.com/split-pdf) |
-| Image to PDF | Convert images to PDF | [Use Tool](https://pdflinx.com/image-to-pdf) |
-| PDF to JPG | Extract images from PDF | [Use Tool](https://pdflinx.com/pdf-to-jpg) |
+| Excel to PDF | Convert Excel sheets to PDF | [Use Tool](https://pdflinx.com/excel-to-pdf) |
+| PowerPoint to PDF | Convert PPT slides to PDF | [Use Tool](https://pdflinx.com/powerpoint-to-pdf) |
+| JPG to PDF | Convert images to PDF | [Use Tool](https://pdflinx.com/jpg-to-pdf) |
 | Text to PDF | Convert plain text to PDF | [Use Tool](https://pdflinx.com/text-to-pdf) |
 
 ---
 
-## 🖼️ Image & Utility Tools
+## 📤 Convert from PDF
 
 | Tool | Description | Link |
 |------|-------------|------|
-| Image Compressor | Compress images online | [Use Tool](https://pdflinx.com/image-compressor) |
-| HEIC to JPG | Convert HEIC to JPG | [Use Tool](https://pdflinx.com/heic-to-jpg) |
-| Image Converter | Convert image formats | [Use Tool](https://pdflinx.com/image-converter) |
-| QR Code Generator | Generate QR codes free | [Use Tool](https://pdflinx.com/qr-code-generator) |
-| Password Generator | Generate strong passwords | [Use Tool](https://pdflinx.com/password-generator) |
-| Signature Maker | Create digital signatures | [Use Tool](https://pdflinx.com/signature-maker) |
-| Unit Converter | Convert units online | [Use Tool](https://pdflinx.com/unit-converter) |
+| PDF to Word | Convert PDF to editable Word | [Use Tool](https://pdflinx.com/pdf-to-word) |
+| PDF to JPG | Extract images from PDF | [Use Tool](https://pdflinx.com/pdf-to-jpg) |
+
+---
+
+## 🔒 PDF Security
+
+| Tool | Description | Link |
+|------|-------------|------|
+| Protect PDF | Add password to PDF | [Use Tool](https://pdflinx.com/protect-pdf) |
+| Unlock PDF | Remove PDF password | [Use Tool](https://pdflinx.com/unlock-pdf) |
+| Sign PDF | Add signature to PDF | [Use Tool](https://pdflinx.com/sign-pdf) |
+
+---
+
+## ✏️ Edit PDF
+
+| Tool | Description | Link |
+|------|-------------|------|
+| Rotate PDF | Rotate PDF pages | [Use Tool](https://pdflinx.com/rotate-pdf) |
+| OCR PDF | Extract text from scanned PDF | [Use Tool](https://pdflinx.com/ocr-pdf) |
+| Edit PDF | Edit PDF content online | [Use Tool](https://pdflinx.com/edit-pdf) |
+| Add Watermark | Add watermark to PDF | [Use Tool](https://pdflinx.com/add-watermark) |
 
 ---
 
 ## 🔒 Privacy & Security
 
 - ✅ Files processed for conversion only
-- ✅ No intentional data storage
+- ✅ No intentional data storage  
 - ✅ No tracking of user documents
 - ✅ No mandatory signup
 
